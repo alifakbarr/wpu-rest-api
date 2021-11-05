@@ -1,0 +1,18 @@
+[
+  {
+    "nama" : "Irdho",
+    "umur" : 21,
+    "pembimbing" : {
+      "pembimbing1" : "koko",
+      "pembimbing2" : "koki"
+    }
+  },
+  {
+    "nama" : "Irdho",
+    "umur" : 21,
+    "pembimbing" : {
+      "pembimbing1" : "koko",
+      "pembimbing2" : "koki"
+    }
+  }
+]
